@@ -1,0 +1,40 @@
+{
+  "identifier": "WildflowerLog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "20000000",
+      "localizations": [],
+      "name": "WildflowerLog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "20000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Bloom-season reminders year over year and photo notes",
+              "displayName": "WildflowerLog Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.wildflowerlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "WildflowerLog Pro Monthly",
+          "subscriptionGroupID": "20000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
